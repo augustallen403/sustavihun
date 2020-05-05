@@ -1,0 +1,306 @@
+
+.gepitelet .small-list-articles.apro-talalati-lista li h2 {
+	margin-bottom: 0;
+	width: 430px;
+}
+.gepitelet .small-list-articles.apro-talalati-lista li a {
+	float: left;
+}
+.gepitelet .small-list-articles.apro-talalati-lista li a img {
+	margin-right: 30px;
+}
+.gepitelet .small-list-articles.apro-talalati-lista li .small-list-content {
+	width: 430px !important;
+	overflow:hidden;
+}
+.clearfix.infok.info-szoveg.marginbottom {
+	margin-bottom: 0;
+}
+#mainlogo img {
+	float: left;
+}
+img {
+	height: auto;
+}
+.QR {
+	width: 150px;
+	margin-top: 0px;
+	display: block;
+	float: right;
+}
+.qr-url {
+	float:right;
+	width: 600px;
+	text-align: right;
+	margin-bottom: 10px;
+}
+
+#mainheader {
+	height: auto;
+	overflow: hidden;
+}
+.right-sticky,
+#today,
+#top-leaderboard,
+.loginbox,
+#menu,
+.tabbox,
+.breadcrumbs,
+#categories,
+.searchbar,
+#searchbar,
+.bigtabbox,
+#fokereso,
+.ad,
+.tavolsagszamito,
+.hirdetesgombok,
+.socials,
+.fb-like,
+.fb_iframe_widget,
+.commentbox,
+.col310,
+#googleMap,
+.dark,
+.cikk-kategoriak.kategoriavalaszto,
+.pager,
+.gepitelet > h1,
+.gepitelet .fejlec,
+.gepitelet .brands,
+.cegreszletek .print,
+.cegreszletek .cimkek,
+.ceghirdetesek,
+.apro-talalati-lista-gombok,
+.apro-talalati-lista-top-keresesek .tagcloud,
+.apro-piszkozatok .hirdetes-kedvenc img,
+.list-buttons,
+.apro-piszkozatok.mod-operations,
+.image-place,
+#footer
+{
+	display: none !important;
+}
+.home .col310 {
+	display: block !important;
+	width: 100%;
+	float: none !important;
+}
+.home .col310 iframe,
+.home .tagcloud,
+.home .morenews,
+.home .linkbox {
+	display: none !important;
+}
+.home .ezmostmas,
+.home .ezmostmas li,
+.home .ezmostmas li div {
+	width: 100% !important;
+	margin: 0 !important;
+	padding: 0 !important;
+}
+.home .col310,
+.home .leadart-content {
+	margin: 0 !important;
+	padding: 0 !important;
+}
+#content .forecast .moregraphs {
+	display: none;
+}
+.col645{
+	width:100% !important;
+	float: none;
+}
+.galeria {
+	padding: 0;
+	margin: 0;
+}
+#content .cegreszletek {
+	margin-bottom: 25px;
+}
+#content .galeria .fokep {
+	display: none;
+}
+#content .galeria .fokep img {
+	display: none;
+}
+#content .galeria .print-fokep {
+	display: block;
+	width: 50%;
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+#content .disabled-image {
+	display: block;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: auto;
+}
+.galeria .alkepek {
+	width: 47%;
+	float: right;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+.galeria .alkepek img {
+	width: 46% !important;
+	height: auto !important;
+	float: left;
+	margin: 0 10px 10px 0 !important;
+}
+.galeria .alkepek img.kep0,
+.cegreszletek .galeria .alkepek .alkep1 {
+	display:none !important;
+}
+.galeria .alkepek .alkep2,
+.galeria .alkepek img.kep1,
+.galeria .alkepek .alkep3,
+.galeria .alkepek img.kep2,
+.galeria .alkepek .alkep4,
+.galeria .alkepek img.kep3,
+.galeria .alkepek .alkep5,
+.galeria .alkepek img.kep4 {
+	display:block !important;
+}
+
+.galeria .alkepek .alkep2.image-place,
+.galeria .alkepek .alkep3.image-place,
+.galeria .alkepek .alkep4.image-place,
+.galeria .alkepek .alkep5.image-place {
+	display: none !important;
+}
+
+.small-list-articles .small-list-content {
+	float: none;
+	width: 100% !important;
+	margin: 0;
+	padding: 0;
+}
+#szallito_ceg .small-list-articles .small-list-content{
+	width: 50% !important;
+	float:left;
+}
+#szallito_ceg .small-list-articles .small-list-content.noImg{
+	width: 100% !important;
+	float:left;
+}
+#szallito_ceg .small-list-articles li a img {
+width: 250px !important;
+height: auto !important;
+margin-right: 18px !important;
+}
+
+.tablestar, .staractive {
+	display: block;
+	height: 16px;
+	width: 100%;
+	position: relative;
+	text-align: right;
+}
+
+.infok.info-ar.bal {
+	width: 49%;
+}
+.infok.info-ar.jobb {
+	width: 49%;
+}
+.infok.info-felado dl {
+	width: 49%;
+}
+#content .gepreszletek .infok {
+	width: 45%;
+	margin-right: 1%;
+	margin-top: 0;
+}
+.cegreszletek.hirdetesadatlap .galeria {
+	margin-top: 25px;
+	overflow: hidden;
+
+}
+
+.cegreszletek .galeria .alkepek.landwirt .thumb_1 {
+	display: none;
+}
+
+.cegreszletek .galeria .alkepek.landwirt .thumb {
+	width: 46% !important;
+	height: auto !important;
+	float: left;
+	margin: 0 10px 10px 0 !important;
+	max-height: 158px;
+}
+.cegreszletek .galeria .alkepek.landwirt .thumb img {
+	width: 100% !important;
+	height: auto !important;
+	max-width: 212px;
+	max-height: 158px;
+}
+
+.hirdetes-kedvenc-doboz-also{
+	display:none;
+}
+.hirdetes-kedvenc-doboz {
+	display: block;
+}
+.ez-egy-dc-doboz{
+	display:none;
+}
+.userbox{
+	display:none;
+}
+.adatlap-tovabbi-hirdetesei{
+	display:none;
+}
+
+.sticky_double_click_agri{
+	display:none;
+}
+
+.sticky_double_click_agrib{
+	display:none;
+}
+
+.sticky_double_click{
+	display:none;
+}
+
+.double_click_doboz{
+	display:none;
+}
+
+.newletterCikkBox{
+	display:none !important;
+}
+
+/* PREGA KAPU MÓDOSÍTÁSOK ELEJE 
+#prega_fejlec_kapu_jelentkezz_jobb{
+	display:none;
+}
+.kapu_page_container{
+	background-image:none;
+}
+.telefon-cart-wrapper{
+	background-image:none;
+}
+.kapu_header_container{
+	background-image:none;
+}
+PREGA KAPU MÓDOSÍTÁSOK VÉGE */
+
+
+#adatlap_galeria,
+#scarab-rec-container,
+#lablecsticky-dfp-portalzone-div,
+.inner-adnavigation,
+.infok.info-felado img {
+	display: none !important;
+}
+#adatlap_galeria_print {
+	display: block !important; 
+}
+#adatlap_galeria_print img {
+	display: inline-block;
+	padding: 4px 2px 0 0;
+}
+

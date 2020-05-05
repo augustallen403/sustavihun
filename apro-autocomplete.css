@@ -1,0 +1,104 @@
+ul.searchbar-autocompletelist {
+    padding: 0;
+}
+ul.searchbar-autocompletelist span.category {
+    color: #808080;
+    font-family: arial;
+    font-weight: 13px;
+	margin-left: 8px;
+}
+
+ul.searchbar-autocompletelist .ui-menu-item {
+    /*border-bottom: 1px solid #d9d9d9;*/
+	padding: 0;
+	/*padding-right: 27px;*/
+}
+ul.searchbar-autocompletelist .ui-menu-item a {
+	border-bottom: 1px solid #D9D9D9;
+	color: #312E25;
+	display: block;
+	padding: 3px 2em 3px .4em;
+}
+
+ul.searchbar-autocompletelist .searchbar-filter_searchterm,
+ul#ui-id-1 {
+  background-color: transparent;
+}
+
+ul.searchbar-autocompletelist .searchbar-filter_searchterm a,
+ul#ui-id-1 a {
+	padding: 12px 0 12px 12px;
+  background: url("") repeat;
+}
+ul.searchbar-autocompletelist .ui-menu-item:last-child a {
+    border: none;
+}
+
+ul.searchbar-autocompletelist li.clear_me {
+  /*  background: url("/static/site/img/close.png") no-repeat scroll right 5px center white;
+    */
+    /*padding: 3px 18px 3px 4px;*/
+}
+ul.searchbar-autocompletelist li.clear_me a {
+    display: block;
+}
+ul.searchbar-autocompletelist li.clear_me .close {
+	background-attachment: scroll;
+	background-color: transparent;
+    background-image: url("");
+	background-position: right 10px center;
+	background-position-x: 50%;
+	background-position-y: center;
+	background-repeat: no-repeat;
+    content: "";
+    display: inline-block;
+    height: 25px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 27px;
+}
+
+ul.searchbar-autocompletelist .ui-state-focus {
+	background: transparent !important;
+	border: none !important;
+	font-weight: normal !important;
+	margin: 0 !important;
+}
+ul.searchbar-autocompletelist .ui-state-focus span.close:hover {
+	background-image: url("");
+	background-repeat: no-repeat;
+	background-position: right 10px center;
+	background-position-x: 50%;
+	background-position-y: center;
+}
+ul.searchbar-autocompletelist .ui-state-focus span.close {
+	background-image: url("");
+	background-repeat: no-repeat;
+	background-position: right 10px center;
+	background-position-x: 50%;
+	background-position-y: center;
+}
+ul.searchbar-autocompletelist .ui-state-focus a {
+	background-color: #248C05;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+ul.searchbar-autocompletelist .ui-state-focus a span.category {
+	color: #FFFFFF;
+}
+
+ul.searchbar-autocompletelist .ui-state-focus .searchbar-filter_searchterm a,
+ul#ui-id-1 .ui-state-focus a {
+  color: #a4a4a4;
+}
+
+ul.searchbar-autocompletelist .ui-state-focus .searchbar-filter_searchterm a span.category,
+ul#ui-id-1 .ui-state-focus a span.category {
+  color: #a4a4a4;
+}
+
+ul.searchbar-autocompletelist .ui-state-focus-remove a {
+	background: transparent !important;
+	color: #312E25 !important;
+}
